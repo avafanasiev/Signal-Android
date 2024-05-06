@@ -1,0 +1,1 @@
+bootstrap: echo y | ${ANDROID_SDK_TOOLS}/sdkmanager "platforms;android-30"
